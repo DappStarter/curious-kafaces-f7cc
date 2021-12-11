@@ -1,0 +1,16 @@
+{
+    "name": "GreekLifeCoins.com",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/symbol": "GLCD",
+        "/category/asset_value_tracking/core-token/name": "Greek Life Coins ",
+        "/category/asset_value_tracking/core-token/decimals": ".69",
+        "/category/asset_value_tracking/core-token/supply": "1000000000"
+    }
+}
